@@ -15,11 +15,3 @@ If you spot a mistake, or something that is missing, jump across to github and m
    :caption: Contents:
 
    argus
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
